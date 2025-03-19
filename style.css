@@ -1,0 +1,56 @@
+*{
+    background-color:red;
+} 
+
+#pomodoro{
+    background-color:green;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 1px black solid;
+    font-size: 2rem;
+    box-shadow:  0px 5px 5px black;
+
+}
+
+#shortBreak{
+    background-color: green;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 1px black solid;
+    font-size: 2rem;
+    box-shadow:  0px 5px 5px black;
+
+}
+#longBreak{
+    background-color: green;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 1px black solid;
+    font-size: 2rem;
+    box-shadow:  0px 5px 5px black;
+
+}
+#start{
+    background-color: green;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 1px black solid;
+    font-size: 2rem;
+    box-shadow:  0px 5px 5px black;
+
+} 
+
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 200px; 
+    background-color: red;
+    
+} 
+
+p{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
